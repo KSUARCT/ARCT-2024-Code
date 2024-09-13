@@ -1,0 +1,8 @@
+geotiff
+matplotlib
+mgrs
+pillow
+imagecodecs
+pyproj
+pymavlink
+serial
